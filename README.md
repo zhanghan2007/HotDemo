@@ -1,6 +1,6 @@
 博文链接：https://blog.csdn.net/capricorn1245/article/details/139990520
 
-使用方法：
+使用方法：  
 1.下载工程后打开  
 2.点击菜单HybridCLR/Installer…， 点击Install按钮进行安装。 耐心等待30s左右，安装完成后会在最后打印 安装成功日志。  
 3.点击菜单 HybridCLR/Generate/All，耐心等待  
