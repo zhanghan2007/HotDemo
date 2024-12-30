@@ -1,7 +1,7 @@
 博文链接：https://blog.csdn.net/capricorn1245/article/details/139990520
 
 使用方法：  
-1.下载工程后打开  
+1.下载工程后打开(我文中用的是unity2022.3.17.f1c1版本，这个demo是unity2022.3.40.f1c1，应该这附近或者这以后的版本都可以)  
 2.点击菜单HybridCLR/Installer…， 点击Install按钮进行安装。 耐心等待30s左右，安装完成后会在最后打印 安装成功日志。  
 3.点击菜单 HybridCLR/Generate/All，耐心等待  
 4.（各种热更资源工程里和nginx-1.27.3文件夹内已经有了，不用再打资源）  
