@@ -1,0 +1,69 @@
+{
+    "FileVersion": "2.0.0",
+    "EnableAddressable": true,
+    "LocationToLower": false,
+    "IncludeAssetGUID": false,
+    "OutputNameStyle": 0,
+    "BuildPipeline": "BuiltinBuildPipeline",
+    "PackageName": "DefaultPackage",
+    "PackageVersion": "2024-12-26-637",
+    "AssetList": [
+        {
+            "Address": "HotUpdate.dll",
+            "AssetPath": "Assets/MyAsset/Codes/HotUpdate.dll.bytes",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 0
+        },
+        {
+            "Address": "mscorlib.dll",
+            "AssetPath": "Assets/MyAsset/Codes/mscorlib.dll.bytes",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 0
+        },
+        {
+            "Address": "System.Core.dll",
+            "AssetPath": "Assets/MyAsset/Codes/System.Core.dll.bytes",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 0
+        },
+        {
+            "Address": "System.dll",
+            "AssetPath": "Assets/MyAsset/Codes/System.dll.bytes",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 0
+        },
+        {
+            "Address": "Cube",
+            "AssetPath": "Assets/MyAsset/Prefabs/Cube.prefab",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 1
+        }
+    ],
+    "BundleList": [
+        {
+            "BundleName": "assets_myasset_codes.bundle",
+            "UnityCRC": 3647077088,
+            "FileHash": "d4c05196b5dd9aada8521abb192ec6c5",
+            "FileCRC": "e1a2b2b7",
+            "FileSize": 975990,
+            "Encrypted": false,
+            "Tags": [],
+            "DependIDs": []
+        },
+        {
+            "BundleName": "assets_myasset_prefabs_cube.bundle",
+            "UnityCRC": 2662140022,
+            "FileHash": "5cd6801c5fa702f194135667b10ce0a5",
+            "FileCRC": "8aba991d",
+            "FileSize": 46863,
+            "Encrypted": false,
+            "Tags": [],
+            "DependIDs": []
+        }
+    ]
+}

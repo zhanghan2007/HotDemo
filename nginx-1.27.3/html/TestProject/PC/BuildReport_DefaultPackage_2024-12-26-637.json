@@ -1,0 +1,110 @@
+{
+    "Summary": {
+        "YooVersion": "2.1.2",
+        "UnityVersion": "2022.3.40f1c1",
+        "BuildDate": "2024/12/26 10:37:47",
+        "BuildSeconds": 7,
+        "BuildTarget": 19,
+        "BuildMode": 1,
+        "BuildPipeline": "BuiltinBuildPipeline",
+        "BuildPackageName": "DefaultPackage",
+        "BuildPackageVersion": "2024-12-26-637",
+        "UniqueBundleName": false,
+        "EnableAddressable": true,
+        "LocationToLower": false,
+        "IncludeAssetGUID": false,
+        "AutoCollectShaders": true,
+        "IgnoreRuleName": "YooAsset.Editor.NormalIgnoreRule",
+        "EnableSharePackRule": true,
+        "EncryptionClassName": "null",
+        "FileNameStyle": 0,
+        "CompressOption": 2,
+        "DisableWriteTypeTree": false,
+        "IgnoreTypeTreeChanges": true,
+        "AssetFileTotalCount": 5,
+        "MainAssetTotalCount": 5,
+        "AllBundleTotalCount": 2,
+        "AllBundleTotalSize": 1022853,
+        "EncryptedBundleTotalCount": 0,
+        "EncryptedBundleTotalSize": 0
+    },
+    "AssetInfos": [
+        {
+            "Address": "HotUpdate.dll",
+            "AssetPath": "Assets/MyAsset/Codes/HotUpdate.dll.bytes",
+            "AssetGUID": "1939b294ecbf50241b5779aa4c6dfd09",
+            "AssetTags": [],
+            "MainBundleName": "assets_myasset_codes.bundle",
+            "MainBundleSize": 975990,
+            "DependAssets": []
+        },
+        {
+            "Address": "mscorlib.dll",
+            "AssetPath": "Assets/MyAsset/Codes/mscorlib.dll.bytes",
+            "AssetGUID": "1dbe4dbe83874ce4dbd06d58b28b23ff",
+            "AssetTags": [],
+            "MainBundleName": "assets_myasset_codes.bundle",
+            "MainBundleSize": 975990,
+            "DependAssets": []
+        },
+        {
+            "Address": "System.Core.dll",
+            "AssetPath": "Assets/MyAsset/Codes/System.Core.dll.bytes",
+            "AssetGUID": "00ecb61dae4de9c4a88e9d8615781a2a",
+            "AssetTags": [],
+            "MainBundleName": "assets_myasset_codes.bundle",
+            "MainBundleSize": 975990,
+            "DependAssets": []
+        },
+        {
+            "Address": "System.dll",
+            "AssetPath": "Assets/MyAsset/Codes/System.dll.bytes",
+            "AssetGUID": "9cb11f61bedfe084d913e5191db1b7b1",
+            "AssetTags": [],
+            "MainBundleName": "assets_myasset_codes.bundle",
+            "MainBundleSize": 975990,
+            "DependAssets": []
+        },
+        {
+            "Address": "Cube",
+            "AssetPath": "Assets/MyAsset/Prefabs/Cube.prefab",
+            "AssetGUID": "0ef551c891c41bc40af6670414e53c3b",
+            "AssetTags": [],
+            "MainBundleName": "assets_myasset_prefabs_cube.bundle",
+            "MainBundleSize": 46863,
+            "DependAssets": []
+        }
+    ],
+    "BundleInfos": [
+        {
+            "BundleName": "assets_myasset_codes.bundle",
+            "FileName": "d4c05196b5dd9aada8521abb192ec6c5.bundle",
+            "FileHash": "d4c05196b5dd9aada8521abb192ec6c5",
+            "FileCRC": "e1a2b2b7",
+            "FileSize": 975990,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundles": [],
+            "AllBuiltinAssets": [
+                "Assets/MyAsset/Codes/HotUpdate.dll.bytes",
+                "Assets/MyAsset/Codes/mscorlib.dll.bytes",
+                "Assets/MyAsset/Codes/System.Core.dll.bytes",
+                "Assets/MyAsset/Codes/System.dll.bytes"
+            ]
+        },
+        {
+            "BundleName": "assets_myasset_prefabs_cube.bundle",
+            "FileName": "5cd6801c5fa702f194135667b10ce0a5.bundle",
+            "FileHash": "5cd6801c5fa702f194135667b10ce0a5",
+            "FileCRC": "8aba991d",
+            "FileSize": 46863,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundles": [],
+            "AllBuiltinAssets": [
+                "Assets/MyAsset/Prefabs/Cube.prefab"
+            ]
+        }
+    ],
+    "IndependAssets": []
+}

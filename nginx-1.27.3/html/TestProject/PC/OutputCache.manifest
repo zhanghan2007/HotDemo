@@ -1,0 +1,10 @@
+ManifestFileVersion: 0
+CRC: 469576648
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: assets_myasset_codes.bundle
+      Dependencies: {}
+    Info_1:
+      Name: assets_myasset_prefabs_cube.bundle
+      Dependencies: {}

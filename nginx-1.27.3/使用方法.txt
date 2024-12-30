@@ -1,0 +1,4 @@
+1.直接运行nginx.exe即可
+2.如果端口冲突时，更改端口：打开文件：conf-nginx.conf,修改第36行的listen
+3.网站为本地ip+端口，指向的是html文件夹
+4.关闭方法，打开cmd，输入taskkill /f /t /im nginx.exe
